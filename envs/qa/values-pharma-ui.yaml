@@ -1,3 +1,4 @@
+#QA environment values for pharma-ui
 replicaCount: 1
 fullnameOverride: pharma-ui
 image:
